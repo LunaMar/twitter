@@ -1,0 +1,8 @@
+li ul{
+	list-style: none;
+
+}
+.tachado {
+  text-decoration: line-through;
+}
+
